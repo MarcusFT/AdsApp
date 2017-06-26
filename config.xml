@@ -8,7 +8,7 @@
         Nickford
     </author>
     <content src="index.html" />
-    <!--<preference name="permissions" value="none" />
+    <preference name="permissions" value="none" />
     <preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
@@ -20,17 +20,16 @@
     <preference name="show-splash-screen-spinner" value="true" />
     <preference name="auto-hide-splash-screen" value="false" />
     <preference name="disable-cursor" value="false" />
-    <preference name="android-minSdkVersion" value="7" />
+    <!--<preference name="android-minSdkVersion" value="7" />-->
     <preference name="android-installLocation" value="auto" />
-    <preference name="phonegap-version" value="cli-6.5.0" />
-    <preference name="android-minSdkVersion" value="integer" />
-    <preference name="android-maxSdkVersion" value="integer" />
+    <preference name="phonegap-version" value="cli-6.3.0" />
+    <preference name="android-minSdkVersion" value="15" />
+    <preference name="android-maxSdkVersion" value="23" />
     <preference name="android-build-tool" value="gradle" />
 
-    crash fix for android 
+    <!-- crash fix for android -->
     <preference name="loadUrlTimeoutValue" value="700000" />
-    <preference name="android-windowSoftInputMode" value="adjustResize" /> -->
-
+    <preference name="android-windowSoftInputMode" value="adjustResize" />
 
     <plugin name="cordova-plugin-camera" source="npm" />
     <plugin name="cordova-plugin-file-transfer" source="npm" />
