@@ -23,28 +23,39 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-love:before {
-  content: "\e906";
-}
-.icon-share:before {
-  content: "\e907";
-}
-.icon-chat:before {
-  content: "\e900";
-}
-.icon-search:before {
-  content: "\e901";
+.icon-adsapp:before {
+  content: "\e916";
 }
 .icon-camera:before {
-  content: "\e902";
+  content: "\e90b";
 }
-.icon-phone:before {
-  content: "\e903";
-}
-.icon-user:before {
-  content: "\e904";
+.icon-chat:before {
+  content: "\e90c";
 }
 .icon-home:before {
-  content: "\e905";
+  content: "\e90d";
 }
-
+.icon-left:before {
+  content: "\e90e";
+}
+.icon-love:before {
+  content: "\e90f";
+}
+.icon-menu:before {
+  content: "\e910";
+}
+.icon-phone:before {
+  content: "\e911";
+}
+.icon-right:before {
+  content: "\e912";
+}
+.icon-search:before {
+  content: "\e913";
+}
+.icon-share:before {
+  content: "\e914";
+}
+.icon-user:before {
+  content: "\e915";
+}
